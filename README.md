@@ -9,9 +9,9 @@ Branches will be created at each commit and named after the date of commit.
   	Pushed all initial sizing project to repo
 
 ##  02/03/2021
-	Team decided on One engine two intake/ twin-turbojet, in take at root of wing.
-	Decide what kind of intake.
+	Team decided on one engine two intake/ twin-turbojet, intake at root of wing.
 	Aspect ratio between 6-7.
 	Wing area around 200 sqft
 	
 	#Working on fuselage length
+	#Decide what kind of intake
